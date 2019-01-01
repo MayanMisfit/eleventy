@@ -143,7 +143,7 @@ h2 {
   }
 }
 
-a.h2:link, a.h2:hover, a.h2:active, a.h2:visited {
+article a:link, article a:visited, article a:hover, article a:active {
   color: #222;
 }
 

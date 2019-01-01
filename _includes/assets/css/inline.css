@@ -43,14 +43,12 @@ a.logo {
 }
 
 
-a:link,
-a:visited {
-  text-decoration: none;
-  color: #222;
-}
-
 nav {
   float: right;
+}
+
+nav a {
+  color: #222;
 }
 
 footer {
@@ -139,6 +137,10 @@ h2 {
     font-size: 0.5em;
     color: $gentletext;
   }
+}
+
+h2 a {
+  color: #222;
 }
 
 

@@ -28,6 +28,7 @@ body {
 a:link,
 a:visited {
   text-decoration: none;
+  color: #222;
 }
 
 header,
@@ -36,10 +37,6 @@ footer {
   padding-bottom: 2em;
   margin-bottom: 4em;
   font-size: 0.8em;
-}
-
-header {
-  border-bottom: solid 1px #eee;
 }
 
 footer {

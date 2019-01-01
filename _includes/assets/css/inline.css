@@ -55,6 +55,10 @@ nav a {
   color: #222;
 }
 
+main nav {
+  float: left;
+}
+
 footer {
   margin-top: 6em;
   border-top: solid 1px $feather;

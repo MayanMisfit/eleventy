@@ -47,13 +47,6 @@ footer {
   border-top: solid 1px $feather;
 }
 
-nav {
-  float: right;
-}
-
-em {
-  float: left;
-}
 
 main, header, footer {
   width: 90%;
@@ -69,7 +62,7 @@ main, header, footer {
 
 ul {
  list-style: none; 
-  padding-inline-start: 40px;
+  padding-inline-start: 0;
 }
 
 li {

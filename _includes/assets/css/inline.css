@@ -151,6 +151,10 @@ article a:link, article a:visited, article a:hover, article a:active {
   color: #222;
 }
 
+footer a:link, footer a:visited, footer a:hover, footer a:active {
+  color: #222;
+}
+
 
 figure {
   margin-left: 0;

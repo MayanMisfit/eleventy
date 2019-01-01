@@ -180,10 +180,11 @@ a:hover, a:active {
 
 article a, article a:link, article a:visited {
   color: #222;
+  text-decoration: underline;
 }
 article a:hover, article a:active {
   color: #3f51b5;
-  
+  text-decoration: none;
 }
 
 footer a:link, footer a:visited {

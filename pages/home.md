@@ -8,4 +8,4 @@ tags:
 ---
 Over 10 years of extensive experience in Visual and UI/UX design Expertise in the latest version of Sketch, Photoshop and Advanced level of hand coding HTML/CSS
 
-![](/static/img/logo.png)
+![](/static/img/multiverse.svg)

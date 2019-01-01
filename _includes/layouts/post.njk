@@ -14,7 +14,7 @@ section: post
   {{ layoutContent | safe }}
 
   {% if tags %}
-    <p>
+    <p class="meta">
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}

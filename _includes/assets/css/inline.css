@@ -38,16 +38,16 @@ footer {
   margin-bottom: 4em;
   font-size: 0.8em;
 }
-
 .logo {
-  float: left;
-  font-size: 24px;
-  font-weight: 800;
-  font-family: sans-serif;
-  background: #eee;
+    font-size: 24px;
+    font-family: sans-serif;
+    background: #222;
+    padding: 2px 12px 5px 12px;
+    border-radius: 50%;
+}
+
+.logo a {
   color: #fff;
-  padding: 8px;
-  border-radius: 50%;
 }
 
 nav {

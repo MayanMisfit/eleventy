@@ -42,9 +42,11 @@ footer {
 .logo {
   float: left;
   font-size: 24px;
-  opacity: .4;
   font-weight: 800;
   font-family: sans-serif;
+  background: #eee;
+  padding: 8px;
+  border-radius: 50%;
 }
 
 nav {

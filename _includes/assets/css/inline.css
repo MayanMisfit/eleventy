@@ -119,6 +119,7 @@ h1,h2,h3,h4 {
 
 h2 {
   font-size: 34px;
+  margin-bottom: 0;
   letter-spacing: -.01em;
   small {
     font-size: 0.5em;

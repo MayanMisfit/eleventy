@@ -161,7 +161,7 @@ h2 {
   }
 }
 
-article a:link, article a:visited {
+article a, article a:link, article a:visited {
   color: #222;
 }
 article a:hover, article a:active {

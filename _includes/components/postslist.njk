@@ -15,13 +15,13 @@
 					{{ post.data.summary }}
 				</p>
 			{% endif %}
-			<p>
+			<p class="meta">
 				<time datetime="{{ post.date | machineDate }}">
 					<small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
 				</time>
 			</p>
 			{% if post.data.tags %}
-				<p>
+				<p class="meta">
 					{% for tag in post.data.tags %}
 		  			{%- if tag != "post" -%}
 		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}

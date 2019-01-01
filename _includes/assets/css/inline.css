@@ -104,8 +104,8 @@ ul.listing {
     margin-bottom: 3em;
   }
   h3 {
-    padding-top: 0;
-    margin-bottom: 2em;
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
 
 }
@@ -126,9 +126,6 @@ h2 {
   }
 }
 
-h3 {
-  margin-top: 2em;
-}
 
 figure {
   margin-left: 0;

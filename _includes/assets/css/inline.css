@@ -25,6 +25,9 @@ body {
   }
 }
 
+a {
+  text-decoration: none;
+}
 
 header,
 footer {
@@ -50,7 +53,7 @@ footer {
 
 header a:link, header a:visited {
     color: #fff;
-  text-decoration: none;
+     text-decoration: none;
 }
 
 

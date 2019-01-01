@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-  text-align: center;
+  
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
   color: $bodytext;
   font-size: 16px;
@@ -47,14 +47,14 @@ footer {
 }
 
 
-.container {
+main, nav {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
   text-align: left;
 }
 @media (min-width: 800px) {
-  .container {
+  main, nav {
     width: 700px;
   }
 }

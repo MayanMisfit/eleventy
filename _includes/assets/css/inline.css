@@ -153,11 +153,11 @@ article a:link, article a:visited, article a:hover, article a:active {
 }
 
 footer a:link, footer a:visited {
-  color: #4a4a4a;
+  color: #757575;
   text-decoration: underline;
 }
 footer a:hover, footer a:active {
-  color: #4a4a4a;
+  color: #757575;
   text-decoration: none;
 }
 

@@ -91,6 +91,10 @@ p.meta {
   
 }
 
+p.data {
+  margin: 0;
+}
+
 p.meta a {
   margin-right: 0.7em;
 }

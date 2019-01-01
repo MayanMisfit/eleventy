@@ -39,6 +39,12 @@ footer {
   font-size: 0.8em;
 }
 
+.logo {
+  width: 100px;
+  height: 30px;
+  background: url('static/img/logo.svg') no-repeat center center;
+}
+
 nav {
   float: right;
 }

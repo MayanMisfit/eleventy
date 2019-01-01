@@ -41,8 +41,10 @@ footer {
 
 .logo {
   float: left;
-  font-size: 30px;
-  opacity: .6;
+  font-size: 24px;
+  opacity: .4;
+  font-weight: 800;
+  font-family: sans-serif;
 }
 
 nav {

@@ -6,6 +6,4 @@ navtitle: About
 tags:
   - nav
 ---
-## 
-
-![](/static/img/about.png)
+уеркуер

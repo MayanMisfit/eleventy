@@ -1,7 +1,5 @@
 ---
-title: >-
-  This is my first post. Leverage agile frameworks to provide a robust synopsis
-  for high level overviews. 
+title: This is my first post. Leverage agile frameworks to provide a robus
 date: 2015-01-01T00:00:00.000Z
 summary: >-
   Leverage agile frameworks to provide a robust synopsis for high level
@@ -18,7 +16,7 @@ tags:
 ---
 
 
-![](/static/img/2018-09-01-19.02.16.jpg)
+![]()
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 

@@ -61,6 +61,7 @@ main, header, footer {
 
 ul {
  list-style: none; 
+  padding-inline-start: 40px;
 }
 
 li {
@@ -68,9 +69,6 @@ li {
     margin: 0 .5em;
 }
 
-ul :first-child {
-    margin-left: 0;
-}
 
 hr {
   border-style: none;

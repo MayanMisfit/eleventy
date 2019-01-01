@@ -43,6 +43,10 @@ footer {
     color: #fff;
 }
 
+.logo:hover {
+    background: #3f51b5;
+}
+
 a {
   text-decoration: none;
 }
@@ -59,8 +63,9 @@ nav a:hover {
   color: #3f51b5;
 }
 
-nav a:hover {
-  color: #3f51b5;
+.nav-item-active {
+    font-weight: 700;
+    color: #3f51b5;
 }
 
 main nav {

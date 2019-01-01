@@ -63,6 +63,11 @@ ul {
  list-style: none; 
 }
 
+li {
+    display: inline-block;
+    margin: 0 .5em;
+}
+
 hr {
   border-style: none;
   border-bottom: solid 1px $feather;

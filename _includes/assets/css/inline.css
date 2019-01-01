@@ -124,16 +124,15 @@ a[rel="tag"],
 a[rel="tag"]:visited {
 	display: inline-block;
   vertical-align: text-top;
-  text-transform: uppercase;
-	letter-spacing: .1em;
-  font-size: .625em;
+  
+  font-size: .8em;
   
   text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 
 a[rel="tag"]:hover {
-	
+	text-decoration: underline;
 }
 
 a[rel="tag"]:last-child {

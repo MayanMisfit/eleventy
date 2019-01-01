@@ -47,16 +47,20 @@ footer {
 }
 
 
-main, nav {
+main, nav, small {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
   text-align: left;
 }
 @media (min-width: 800px) {
-  main, nav {
+  main, nav, small {
     width: 700px;
   }
+}
+
+ul {
+ list-style: none; 
 }
 
 hr {

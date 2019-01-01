@@ -55,6 +55,14 @@ nav a {
   color: #222;
 }
 
+nav a:hover {
+  color: #3f51b5;
+}
+
+nav a:hover {
+  color: #3f51b5;
+}
+
 main nav {
   float: left;
 }

@@ -39,6 +39,10 @@ footer {
   font-size: 0.8em;
 }
 
+nav {
+  float: right;
+}
+
 footer {
   margin-top: 6em;
   border-top: solid 1px $feather;

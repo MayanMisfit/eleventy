@@ -87,6 +87,12 @@ hr {
 p.meta {
   color: $bodytext;
   font-size: 0.8em;
+  padding-bottom:0.5em;
+  margin-bottom: 0;
+}
+
+p.meta a {
+  margin-left: 0.5em;
 }
 
 ul.listing {
@@ -101,10 +107,7 @@ ul.listing {
     padding-top:0;
     margin-top:0;
   }
-  p.meta {
-    padding-bottom:0.5em;
-    margin-bottom:0;
-  }
+
 }
 
 

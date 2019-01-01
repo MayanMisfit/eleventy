@@ -61,7 +61,7 @@ main nav {
 
 footer {
   margin-top: 6em;
-  color: #eee;
+  color: #a5a5a5;
 }
 
 
@@ -152,8 +152,13 @@ article a:link, article a:visited, article a:hover, article a:active {
   color: #222;
 }
 
-footer a:link, footer a:visited, footer a:hover, footer a:active {
-  color: #222;
+footer a:link, footer a:visited {
+  color: #4a4a4a;
+  text-decoration: underline;
+}
+footer a:hover, footer a:active {
+  color: #4a4a4a;
+  text-decoration: none;
 }
 
 

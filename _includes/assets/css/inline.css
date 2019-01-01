@@ -46,6 +46,9 @@ footer {
   border-top: solid 1px $feather;
 }
 
+nav {
+  float: right;
+}
 
 main, header, footer {
   width: 90%;

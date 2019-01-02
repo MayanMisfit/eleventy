@@ -6,25 +6,13 @@ navtitle: Контакты
 tags:
   - nav
 ---
-[linkedin.com/in/shishak](linkedin.com/in/shishak/)
-
-[messenger.com/t/shishak](messenger.com/t/shishak)
-
-[dribbble.com/shishak](dribbble.com/shishak)
-
-[codepen.io/shishak](codepen.io/shishak/)
-
-[github.com/shishak](github.com/shishak)
-
-[uplabs.com/shishak](https://www.uplabs.com/shishak)
-
-\---
-
-## +380976574964
-
 simon.shishak@gmail.com
 
-skype: sozdaniesaitov
+[linkedin.com/in/shishak](linkedin.com/in/shishak/)
+
++380976574964
+
+- - -
 
 Please download my CV
 

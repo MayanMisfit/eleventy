@@ -12,14 +12,26 @@ tags:
 
 
 
-
-
-_Некоторые последние проекты:_
-
-__[_Институт кардиологии имени Стражеска_](https://strazhesko.org.ua/)__
-
-_Приложение _[_Новости_](https://play.google.com/store/apps/details?id=com.shishak.novost)__
-
-__[_Портал клинических испытаний_](https://ichgcp.net/)__
+>
+>
+> Некоторые последние проекты:
+>
+>
+>
+> [Институт кардиологии имени Стражеска](https://strazhesko.org.ua/)
+>
+>
+>
+> Приложение 
+>
+> [Новости](https://play.google.com/store/apps/details?id=com.shishak.novost)
+>
+>
+>
+>
+>
+> [Портал клинических испытаний](https://ichgcp.net/)
+>
+>
 
 __

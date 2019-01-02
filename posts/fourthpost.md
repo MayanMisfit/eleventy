@@ -1,27 +1,13 @@
 ---
-title: This is my fourth post
+title: Еще я кайфую от своего набора векторных иконок
 date: 2017-02-03T00:00:00.000Z
 summary: >-
-  Leverage agile frameworks to provide a robust synopsis for high level
-  overviews. Iterative approaches to corporate strategy foster collaborative
-  thinking to further the overall value proposition. Organically grow the
-  holistic world view of disruptive innovation via workplace diversity and
-  empowerment.
+  Еще я кайфую от своего набора векторных иконок
+  [Multiverse](https://icons.simonshishak.com/) который в сочетании с IconJar
+  является самой лучшей библиотекой для быстрой отрисовки графики
 tags:
-  - post
-  - environment
-  - politics
+  - icon
+  - vector
+  - multiverse
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Еще я кайфую от своего набора векторных иконок [Multiverse](https://icons.simonshishak.com/) который в сочетании с IconJar является самой лучшей библиотекой для быстрой отрисовки графики

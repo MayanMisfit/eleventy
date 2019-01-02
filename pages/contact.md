@@ -2,17 +2,29 @@
 title: Контакты
 date: 2018-01-01T00:00:00.000Z
 permalink: /contact/index.html
-navtitle: Contact
+navtitle: Контакты
 tags:
   - nav
 ---
-Email: SIMON.SHISHAK@GMAIL.COM
+**simon.shishak@gmail.com**
 
-Messenger: MESSENGER.COM/T/SIMON.SHISHAK
+[linkedin.com/in/shishak](linkedin.com/in/shishak/)
 
-Phone: +380976574964
+[messenger.com/t/shishak](messenger.com/t/shishak)
 
+[dribbble.com/shishak](dribbble.com/shishak)
 
+[codepen.io/shishak](codepen.io/shishak/)
+
+[github.com/shishak](github.com/shishak)
+
+[uplabs.com/shishak](https://www.uplabs.com/shishak)
+
+\---
+
+**+380976574964**
+
+skype: sozdaniesaitov
 
 Please download my CV
 

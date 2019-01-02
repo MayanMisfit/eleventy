@@ -6,7 +6,7 @@ navtitle: Контакты
 tags:
   - nav
 ---
-# simon.shishak@gmail.com
+**simon.shishak@gmail.com**
 
 - - -
 
@@ -14,8 +14,6 @@ Please download my CV
 
 [SHISHAK_CV.DOC](https://docs.google.com/document/d/1rGsVzKVGYOUidE9V3975hGZ67UpsM3aSoJE4UGjhj34/)
 
-***
-
-
+- - -
 
 [linkedin.com/in/shishak](linkedin.com/in/shishak/)

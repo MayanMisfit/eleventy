@@ -8,12 +8,12 @@ tags:
 ---
 Почта 
 
-# simon.shishak@gmail.com
+**simon.shishak@gmail.com**
 
 Линкедин
 
-# [linkedin.com/in/shishak](https://www.linkedin.com/in/shishak/)
+****[**linkedin.com/in/shishak**](https://www.linkedin.com/in/shishak/)****
 
 Мессенжер
 
-# [messenger.com/t/shishak](https://www.messenger.com/t/shishak)
+****[**messenger.com/t/shishak**](https://www.messenger.com/t/shishak)****

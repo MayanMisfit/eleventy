@@ -6,10 +6,10 @@ navtitle: Контакты
 tags:
   - nav
 ---
-Почта 
 
-**simon.shishak@gmail.com**
 
-****[**linkedin.com/in/shishak**](https://www.linkedin.com/in/shishak/)****
+simon.shishak@gmail.com
 
-****[**messenger.com/t/shishak**](https://www.messenger.com/t/shishak)****
+[linkedin.com/in/shishak](https://www.linkedin.com/in/shishak/)
+
+[messenger.com/t/shishak](https://www.messenger.com/t/shishak)

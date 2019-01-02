@@ -6,4 +6,4 @@ navtitle: About
 tags:
   - nav
 ---
-![](/static/img/m68xrffzwnprjzymak3orlx6ujz2_full_1473740284682_svg.png)
+![](/static/img/m68xrffzwnprjzymak3orlx6ujz2_full_1473735931477_3-edit.png)

@@ -14,13 +14,12 @@ tags:
 
 Еще я кайфую от своего набора векторных иконок [Multiverse](https://icons.simonshishak.com/) который в сочетании с IconJar является самой лучшей библиотекой для быстрой отрисовки графики
 
-
 - - -
 
 Некоторые последние проекты:
 
 [Институт кардиологии имени Стражеска](https://strazhesko.org.ua/)
 
-[Приложение для Новости Google Play](https://play.google.com/store/apps/details?id=com.shishak.novost)
+[Приложение Новости (Google Play](https://play.google.com/store/apps/details?id=com.shishak.novost))
 
 [Портал клинических испытаний](https://ichgcp.net/)

@@ -8,6 +8,6 @@ tags:
 ---
 simon.shishak@gmail.com
 
-или
-
 [linkedin.com/in/shishak](linkedin.com/in/shishak/)
+
+[messenger.com/t/shishak](messenger.com/t/shishak)

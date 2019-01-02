@@ -15,5 +15,7 @@ tags:
 Некоторые последние проекты:
 
 [Институт кардиологии имени Стражеска](https://strazhesko.org.ua/)
+
 [Приложение для Новости Google Play](https://play.google.com/store/apps/details?id=com.shishak.novost)
+
 [Портал клинических испытаний](https://ichgcp.net/)

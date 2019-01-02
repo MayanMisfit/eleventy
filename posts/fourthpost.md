@@ -11,4 +11,4 @@ tags:
 ---
 Еще я кайфую от своего набора векторных иконок [Multiverse](https://icons.simonshishak.com/) который в сочетании с IconJar является самой лучшей библиотекой для быстрой отрисовки графики
 
-![](/static/img/5363.png)
+![](/static/img/d8ff7b4d8d2b24f04bc00b07151e1298.jpg)

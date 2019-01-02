@@ -6,4 +6,4 @@ navtitle: Блог
 tags:
   - nav
 ---
-![](/static/img/5363.png)
+![](/static/img/fthtth.png)

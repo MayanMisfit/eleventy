@@ -6,8 +6,6 @@ navtitle: Контакты
 tags:
   - nav
 ---
-**simon.shishak@gmail.com**
-
 [linkedin.com/in/shishak](linkedin.com/in/shishak/)
 
 [messenger.com/t/shishak](messenger.com/t/shishak)
@@ -22,7 +20,9 @@ tags:
 
 \---
 
-**+380976574964**
+## +380976574964
+
+simon.shishak@gmail.com
 
 skype: sozdaniesaitov
 

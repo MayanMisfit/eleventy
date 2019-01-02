@@ -1,10 +1,13 @@
 ---
-layout: layouts/base.njk
-section: blog
-permalink: /blog/index.html
----
+ layout: layouts/base.njk	 layout: layouts/base.njk
+ templateClass: tmpl-post	 section: post
+ ---	 ---
+ 
+  <h1>{{ title }}</h1>	 <h1>{{ title }}</h1>
+ 
+  
+  {{ layoutContent | safe }}	 {{ layoutContent | safe }}
+ 
+  
+  <p><a href="{{ '/' | url }}">← Home</a></p> 	 <p><a href="{{ '/blog/' | url }}">← Blog index</a></p>
 
-{{ layoutContent | safe }}
-
-{% set postslist = collections.posts %}
-{% include "components/postslist.njk" %}

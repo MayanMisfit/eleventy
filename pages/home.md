@@ -10,22 +10,16 @@ tags:
 
 Мой основной профиль это интерфейс пользователя, включая UX и архитектуру  фронтенда, так как по настоящему отзывчивый продукт возможен если учесть наибольшее количество потенциальных точек отказа
 
-Последние проекты:
-
-[Институт кардиологии имени Стражеска](https://strazhesko.org.ua/)
-
-[Приложение Погода](https://play.google.com/store/apps/details?id=com.shishak.weather) и [Новости](https://play.google.com/store/apps/details?id=com.shishak.novost)
-
-[Портал клинических испытаний](https://ichgcp.net/)
 
 
 
-![](/static/img/str.svg)
 
+_Некоторые последние проекты:_
 
+__[_Институт кардиологии имени Стражеска_](https://strazhesko.org.ua/)__
 
-![](/static/img/ichgcp.svg)
+_Приложение _[_Новости_](https://play.google.com/store/apps/details?id=com.shishak.novost)__
 
+__[_Портал клинических испытаний_](https://ichgcp.net/)__
 
-
-![](/static/img/press.svg)
+__

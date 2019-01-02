@@ -6,8 +6,14 @@ navtitle: Контакты
 tags:
   - nav
 ---
-Почта  simon.shishak@gmail.com
+Почта 
 
-Линкедин [linkedin.com/in/shishak](https://www.linkedin.com/in/shishak/)
+simon.shishak@gmail.com
 
-Мессенжер [messenger.com/t/shishak](https://www.messenger.com/t/shishak)
+Линкедин
+
+[linkedin.com/in/shishak](https://www.linkedin.com/in/shishak/)
+
+Мессенжер
+
+[messenger.com/t/shishak](https://www.messenger.com/t/shishak)

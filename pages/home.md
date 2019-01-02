@@ -2,7 +2,7 @@
 title: UI/UX дизайнер Семен Шишак
 date: 2019-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: Главная
 tags:
   - nav
 ---

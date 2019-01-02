@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="178px" viewBox="0 0 283 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="weather" fill="#FAFAFA">
+            <polygon id="Path" points="0 0 283 0 283 178 0 178"></polygon>
+        </g>
+        <polygon id="Shape" fill="#999999" fill-rule="nonzero" transform="translate(141.500000, 89.000000) scale(-1, 1) translate(-141.500000, -89.000000) " points="133.915076 52.230701 129.193336 67.6014736 121.357256 93.3198903 121.055868 92.7171149 120.151705 89.3013877 101.264743 89.3013877 101.264743 99.3476442 112.9184 99.3476442 116.735978 111.001302 121.457718 125.769299 126.179459 110.699914 134.015539 85.5842728 141.851619 110.699914 145.970584 124.161898 151.2951 111.30269 157.222391 96.5346924 158.528405 99.3476442 181.735257 99.3476442 181.735257 89.3013877 164.757084 89.3013877 160.939506 81.7666953 155.916378 72.0218264 151.797413 82.3694707 147.075672 94.324516 138.636817 67.6014736"></polygon>
+    </g>
+</svg>

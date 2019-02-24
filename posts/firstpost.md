@@ -1,14 +1,42 @@
 ---
-title: UI/UX дизайнер Семен Шишак
-date: 2015-01-01T00:00:00.000Z
+title: Dream Dancer
+date: 2019-02-24T22:28:00.000Z
 summary: >
-  Привет, меня зовут Семен и я проектирую интерфейсы. За 14 лет работы я создал
-  несколько сотен web-сайтов, десятки мобильных приложений и работал в таких
-  компаниях как Zfort Group (Харьков) и Samsung R&D (Киев)
+ I write strange things sometimes 
 tags:
-  - ui/ux
-  - design
+  - writing
+  - poetry
 ---
-Привет, меня зовут Семен и я проектирую интерфейсы. За 14 лет работы я создал несколько сотен web-сайтов, десятки мобильных приложений и работал в таких компаниях как Zfort Group (Харьков) и Samsung R&D (Киев)
 
-![](/static/img/bfae1b2b87f532253e271e21a0bfdebb.jpg)
+<article>
+I don't know why I wrote this, it just happened ok 
+
+I am he who bends \
+his will to ensure \
+your dreams are sweet \
+and true 
+
+So come my love \
+come dream with \
+me and we shall \
+dance in the \
+heavens amongst \
+the stars so bright \
+this glorious night 
+
+We shall dance sun \
+we shall dance \
+the moon 
+
+So come my beloved \
+come, come, come \
+dream with me \
+and we shall dance \
+the dance of \
+lovers this glorious \
+night. 
+
+
+
+
+</article>

@@ -1,21 +1,31 @@
 ---
-title: UI/UX дизайнер Семен Шишак
-date: 2009-01-27T00:00:00.000Z
+title: Digital Misfit
+date: 2019-02-24T00:00:00.000Z
 permalink: /
-navtitle: Главная
+navtitle: Home
 tags:
   - nav
 ---
-Привет, меня зовут Семен и я проектирую интерфейсы. За 14 лет работы я создал несколько сотен web-сайтов, десятки мобильных приложений и [работал в таких компаниях](https://www.linkedin.com/in/shishak/) как Zfort Group (Харьков) и Samsung R&D (Киев)
+<div class="bi-line"> The Code Tinkerer, Misfit and All Round Adorable Arseshole</div>
 
-Мой основной профиль это интерфейс пользователя, включая UX и архитектуру фронтенда, так как по настоящему отзывчивый продукт возможен если учесть наибольшее количество потенциальных точек отказа
-
+I'm Johnny, I do things, and I sometimes don't things. I was born and currently still live on a pebble in the UK, a pebble called Jersey. It's a tiny, over-crowded pebble but it's my pebble. I work for a mail order/online company If you need to know more than that; Ask
+<ol>
+<li>I'm not a developer, I'm a tinkerer</li>
+<li>Writer of worlds</li>
+<li>I'm a gamer</li>
+<li>I fix things</li>
+<li>I break Things</li>
+<li>Bunnies are evil</li>
+<li>I 3D print things</li>
+<li>I'm highly unprofessional</li>
+<li>Did I mention Bunnies are Evil?</li>
+</ol>
 - - -
 
-Некоторые последние проекты:
+You can find me several places online, besides here. 
 
-[Институт кардиологии имени Стражеска](https://strazhesko.org.ua/)
+[That One Birdsite](https://twitter.com/mayanmisfit/)
 
-[Приложение Новости (Google Play](https://play.google.com/store/apps/details?id=com.shishak.novost))
+[Mastodon](https://mastodon.technology/@DigitalMisfit)
 
-[Портал клинических испытаний](https://ichgcp.net/)
+[Instagram](https://www.instagram.com/the.digital.misfit/)

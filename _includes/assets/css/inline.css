@@ -7,9 +7,10 @@ html, body {
 body {
   
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  color: #222;
+  color: #fff;
   font-size: 16px;
   line-height: 1.6;
+  background: #222;
 }
 
 @media (min-width: 800px) {
@@ -35,7 +36,7 @@ footer {
     font-family: sans-serif;
     background: #707070;
     padding: 2px 12px 5px 12px;
-    border-radius: 50%;
+    border-radius: 25%;
     color: #fff;
 }
 
@@ -55,19 +56,19 @@ nav {
 }
 
 nav a:link, nav a:visited {
-  color: #222;
+  color: #D3D3D3;
   font-weight: 600;
   text-decoration: none;
 }
 
 nav a:hover, nav a:active {
-  color: #3f51b5;
+  color: #D3D3D3;
   text-decoration: none;
 }
 
 .nav-item-active {
     font-weight: 700;
-    color: #3f51b5;
+    color: #D3D3D3;
 }
 
 main nav {
@@ -101,6 +102,12 @@ li {
     display: inline-block;
     margin: 0 .5em;
     font-family: sans-serif;
+}
+
+ol li
+{
+  display: list-item;
+  list-style: disc;
 }
 
 article {
@@ -147,7 +154,7 @@ ul.listing {
 
 h1,h2,h3,h4 {
   font-family: sans-serif;
-  color: #222;
+  color: #D3D3D3;
   font-size: 34px;
   line-height: 34px;
   letter-spacing: -.01em;
@@ -159,28 +166,28 @@ h2 {
   letter-spacing: -.01em;
   small {
     font-size: 0.5em;
-    color: $gentletext;
+    color: #D3D3D3;
   }
 }
 
 
 main a:link, main a:visited {
-  color: #3f51b5;
+  color: #D3D3D3;
   text-decoration: none;
 }
 main a:hover, main a:active {
-  color: #3f51b5;
+  color: #D3D3D3;
   text-decoration: underline;
 }
 
 
 
 article a, article a:link, article a:visited {
-  color: #222;
+  color: #D3D3D3;
   text-decoration: none;
 }
 article a:hover, article a:active {
-  color: #3f51b5;
+  color: #D3D3D3;
   text-decoration: none;
 }
 
@@ -226,4 +233,16 @@ pre {
   background-color: $feather;
   font-size: 0.7em;
   overflow-x: scroll;
+}
+
+.bi-line
+{
+  font-weight: bolder;
+  font-size: 1em;
+  margin-top: 25px;
+}
+
+.center
+{
+  text-align: center;
 }

@@ -35,8 +35,9 @@ footer {
     font-size: 24px;
     font-family: sans-serif;
     background: #707070;
-    padding: 2px 12px 5px 12px;
     border-radius: 25%;
+    height: 40px;
+    width: 40px;
     color: #fff;
 }
 
@@ -154,7 +155,7 @@ ul.listing {
 
 h1,h2,h3,h4 {
   font-family: sans-serif;
-  color: #D3D3D3;
+  color: #3f51b5;
   font-size: 34px;
   line-height: 34px;
   letter-spacing: -.01em;
@@ -166,37 +167,37 @@ h2 {
   letter-spacing: -.01em;
   small {
     font-size: 0.5em;
-    color: #D3D3D3;
+    color: #3f51b5;
   }
 }
 
 
 main a:link, main a:visited {
-  color: #D3D3D3;
+  color: #3f51b5;
   text-decoration: none;
 }
 main a:hover, main a:active {
-  color: #D3D3D3;
+  color: #3f51b5;
   text-decoration: underline;
 }
 
 
 
 article a, article a:link, article a:visited {
-  color: #D3D3D3;
+  color: #3f51b5;
   text-decoration: none;
 }
 article a:hover, article a:active {
-  color: #D3D3D3;
+  color: #3f51b5;
   text-decoration: none;
 }
 
 footer a:link, footer a:visited {
-  color: #757575;
+  color: #3f51b5;
   text-decoration: underline;
 }
 footer a:hover, footer a:active {
-  color: #757575;
+  color: #3f51b5;
   text-decoration: none;
 }
 
@@ -240,6 +241,7 @@ pre {
   font-weight: bolder;
   font-size: 1em;
   margin-top: 25px;
+  color: #3f51b5;
 }
 
 .center

@@ -8,7 +8,7 @@ tags:
 ---
 <div class="bi-line"> The Code Tinkerer, Misfit and All Round Adorable Arseshole</div>
 
-I'm Johnny, I do things, and I sometimes don't things. I was born and currently still live on a pebble in the UK, a pebble called Jersey. It's a tiny, over-crowded pebble but it's my pebble. I work for a mail order/online company If you need to know more than that; Ask
+I'm Johnny, I do things, and I sometimes don't things. I was born and currently still live on a pebble in the UK, a pebble called Jersey. It's a tiny, over-crowded pebble but it's my pebble. I work for a mail order/online company.
 <ol>
 <li>I'm not a developer, I'm a tinkerer</li>
 <li>Writer of worlds</li>

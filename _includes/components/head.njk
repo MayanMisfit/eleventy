@@ -4,7 +4,6 @@
   <title>{{ title or metadata.title }}</title>
    {% set css %}
     {% include "assets/css/inline.css" %}
-     {% include "assets/css/all.min.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {# An optional javascript pipeline; outputs minified JS into <head>

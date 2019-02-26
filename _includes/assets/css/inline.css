@@ -262,11 +262,18 @@ pre {
 
 .links a
 {
-  margin-left: 25px;
+  margin-left: 10px;
 
 }
+
 
 .links a::before
 {
-  content: " \f0c1 ";
+  content: url(../../static/img/link.png);
+  width: 15px;
+  height: 15px;
+  margin-right: 15px;
+
+
 }
+

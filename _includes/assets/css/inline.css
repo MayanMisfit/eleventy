@@ -21,6 +21,7 @@ body {
 
 a {
   text-decoration: none;
+  color: #876bc1;
 }
 
 header,
@@ -48,7 +49,7 @@ footer {
 }
 
 header a:link, header a:visited {
-    color: #fff;
+    color: #876bc1;
      text-decoration: none;
 }
 
@@ -58,19 +59,19 @@ nav {
 }
 
 nav a:link, nav a:visited {
-  color: #D3D3D3;
+  color: #876bc1;
   font-weight: 600;
   text-decoration: none;
 }
 
 nav a:hover, nav a:active {
-  color: #D3D3D3;
+  color: #876bc1;
   text-decoration: none;
 }
 
 .nav-item-active {
     font-weight: 700;
-    color: #D3D3D3;
+    color: #876bc1;
 }
 
 main nav {
@@ -168,37 +169,37 @@ h2 {
   letter-spacing: -.01em;
   small {
     font-size: 0.5em;
-    color: #3f51b5;
+    color: #876bc1;
   }
 }
 
 
 main a:link, main a:visited {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: none;
 }
 main a:hover, main a:active {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: underline;
 }
 
 
 
 article a, article a:link, article a:visited {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: none;
 }
 article a:hover, article a:active {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: none;
 }
 
 footer a:link, footer a:visited {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: underline;
 }
 footer a:hover, footer a:active {
-  color: #3f51b5;
+  color: #876bc1;
   text-decoration: none;
 }
 

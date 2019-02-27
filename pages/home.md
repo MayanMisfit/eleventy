@@ -24,8 +24,8 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 You can find me several places online, besides here. 
 
-[That One Birdsite](https://twitter.com/mayanmisfit/)
+<i class="fab fa-twitter-square" style="padding-right: 10px; color: #666666;"></i>[That One Birdsite](https://twitter.com/mayanmisfit/)
 
-[Mastodon](https://mastodon.technology/@DigitalMisfit)
+<i class="fab fa-mastodon" style="padding-right: 10px; color: #666666;"></i>[Mastodon](https://mastodon.technology/@DigitalMisfit)
 
-[Instagram](https://www.instagram.com/the.digital.misfit/)
+<i class="fab fa-instagram" style="padding-right: 10px; color: #666666;"></i>[Instagram](https://www.instagram.com/the.digital.misfit/)

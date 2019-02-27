@@ -35,6 +35,7 @@ footer {
   -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: inline-block;
+    color: #666666;
     font-size: 39px;
     font-variant: normal;
     text-rendering: auto;
@@ -241,7 +242,7 @@ pre {
   font-weight: bolder;
   font-size: 1em;
   margin-top: 25px;
-  color: #3f51b5;
+  color: #666666;
 }
 
 .center
@@ -272,8 +273,9 @@ pre {
 .links a::before
 { 
   font-family: "Font Awesome 5 Free";
-  font-size: 1em;
+  font-size: 0.9em;
    content: "\f0c1";
+   color: #666666 !important; 
    display: inline-block;
    padding-right: 10px;
    vertical-align: middle;

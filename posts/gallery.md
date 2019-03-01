@@ -46,7 +46,7 @@ tags:
     <a target="_blank" href="/static/img/gallery01/keys.jpg">
       <img src="/static/img/gallery01/keys.jpg" alt="3d printed model" width="600" height="400">
     </a>
-    <div class="desc">3D printed Lady model</div>
+    <div class="desc">3D printed A-Team key fobs</div>
   </div>
 </div>
 

@@ -28,4 +28,6 @@ You can find me several places online, besides here.
 
 <i class="fab fa-mastodon" style="padding-right: 10px; color: #666666;"></i>[Mastodon](https://mastodon.technology/@DigitalMisfit)
 
-<i class="fab fa-instagram" style="padding-right: 10px; color: #666666;"></i>[Instagram](https://www.instagram.com/the.digital.misfit/)
+<i class="fab fa-instagram" style="padding-right: 10px; color: #666666;"></i>[Instagram](https://www.instagram.com/the.digital.misfit/) 
+
+<i class="fas fa-at" style="padding-right: 10px; color: #666666;"></i><a href="mailto:johnny@digitalmisfit.uk" rel="me">mail</a>

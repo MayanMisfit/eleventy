@@ -4,7 +4,7 @@ date: 2019-03-03T22:28:00.000Z
 summary: >
  As a writer, this sort of thing is a daily occurrence for me. The following is a conversation two of my characters had in my head this morning
 tags:
-  - Writing
+  - writing
 ---
 
 As a writer, this sort of thing is a daily occurrence for me. The following is a conversation two of my characters had in my head this morning. 

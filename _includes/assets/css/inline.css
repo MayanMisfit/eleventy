@@ -236,13 +236,13 @@ blockquote {
   font-style: italic;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: -2em;
+  margin-left: 1em;
   padding-left: 2em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
-  border-left: solid 3px $gentletext;
+  border-left: solid 3px #333;
   em {
-    font-style: normal;
+    font-style: italic;
   }
 }
 

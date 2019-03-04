@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/thenote.njk",
+  "permalink": "notes/{{ title | slug }}/index.html",
+  "tags": "notes"
+}

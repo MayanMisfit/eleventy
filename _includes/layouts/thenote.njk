@@ -16,19 +16,10 @@ section: notes
 
   {{ layoutContent | safe }}
 
-  {% if tags %}
-    <p class="meta">
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </p>
-  {% endif %}
+ 
 
 </article>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/notes/' | url }}">← Notes</a>
 </nav>

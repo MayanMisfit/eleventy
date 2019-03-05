@@ -15,6 +15,7 @@ No sooner than the old wolf had finished his sentence, the ship doors slid back 
 Val'len's jaw widened in shock "The fish? He blurted out in ancient wolven,  
 
 "The Fish?! The fish made it in to space?!" \
+
 Saria whom had been taking lessons in the old tongue and history from the elders was desperately trying trying not to laugh. \
 The old wolf shook off his amazement as the the creatures defended the the gangway of their ship, they looked extremely nervous. \ 
 Vel'len looked back to Darkmoon. \

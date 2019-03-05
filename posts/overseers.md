@@ -14,7 +14,7 @@ Saria and Darkmoon were gathered around him, weapons at the ready. \
 No sooner than the old wolf had finished his sentence, the ship doors slid back to reveal three relatively short creatures, the tallest being no more than four feet; they were covered in opalescent blue scales and had what appeared to be tentacle like tails. \
 Val'len's jaw widened in shock "The fish? He blurted out in ancient wolven,  
 
-"The Fish?! The fish made it in to space?!" \
+"The Fish?! The fish made it in to space?!" 
 
 Saria whom had been taking lessons in the old tongue and history from the elders was desperately trying trying not to laugh. \
 The old wolf shook off his amazement as the the creatures defended the the gangway of their ship, they looked extremely nervous. \ 

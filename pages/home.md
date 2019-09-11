@@ -20,6 +20,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 <li>I'm highly unprofessional</li>
 <li>Did I mention Bunnies are Evil?</li>
 <li>Proud Supporter of the <a href="https://www.youtube.com/channel/UCU3gwpclVZSYofj616OQKLQ/"> Mischief</a></li>
+<li><a href="https://twitch.tv/deshplease/">#BlameDesh</a></li>
 </ol>
 - - -
 

@@ -3,7 +3,7 @@ title: Fucked Up Day
 notitle: "true"
 date: 2019-09-11T22:28:00.000Z
 summary: >
-Taken from the <a href="https://askmolly.substack.com/">"AskMolly"</a> Newsletter
+Taken from the "AskMolly" Newsletter
 tags:
 - notes
 ---
